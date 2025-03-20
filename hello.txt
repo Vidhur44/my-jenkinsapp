@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar!!!
-Added new data!
+Appended new data.
